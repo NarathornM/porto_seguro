@@ -1,0 +1,7 @@
+ps_reg_03 = (train.ps_reg_03**2)*16*100
+ps_car_15 = train.ps_car_15**2
+ps_car_14 = (train.ps_car_14**2)*10000
+ps_car_13 = train.ps_car_13**2*100000
+ps_car_13 = ps_car_13.round(1)
+ps_car_12 = train.ps_car_12**2*100
+ps_car_12 = ps_car_12.round(0)*100

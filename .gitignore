@@ -1,0 +1,9 @@
+*.csv
+*.check
+*.pkl
+*.7z
+*.zip
+/kernels
+/log
+/models
+/data
